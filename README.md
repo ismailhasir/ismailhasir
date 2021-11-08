@@ -1,4 +1,4 @@
-### Hi there I'm İsmail Hasır. 👋
+### Hi, I'm İsmail Hasır.
 
 <!--
 **ismailhasir/ismailhasir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![İsmail Hasır's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismailhasir)](https://github.com/ismailhasir/github-readme-stats)
