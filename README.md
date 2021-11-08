@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![İsmail Hasır's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismailhasir)](https://github.com/ismailhasir/github-readme-stats)
+[![İsmail Hasır's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismailhasir&theme=github_dark&show_icons=true)](https://github.com/ismailhasir/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailhasir&layout=compact&theme=github_dark)](https://github.com/ismailhasir/github-readme-stats)
+
+
