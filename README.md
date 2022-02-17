@@ -26,6 +26,7 @@
 
 
 **Certificates:**
+- **Modern JavaScript** / *The Net Ninja UK*
 - **FrontEnd Masters BootCamp** / *Frontend Masters*
 - **JavaScript Algorithms and Data Structures** / *freeCodeCamp*
 - **Responsive Web Design Certification** / *freeCodeCamp*
