@@ -25,3 +25,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailhasir&layout=compact&theme=github_dark&hide_border=true)](https://github.com/ismailhasir/github-readme-stats)
 
 
+**Certificates:**
+- **FrontEnd Masters BootCamp** / *Frontend Masters*
+- **JavaScript Algorithms and Data Structures** / *freeCodeCamp*
+- **Responsive Web Design Certification** / *freeCodeCamp*
