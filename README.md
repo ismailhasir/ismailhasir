@@ -15,6 +15,10 @@
     width="60px"
   />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img
+    src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg"
+    width="60px"
+  />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img
     src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/firebase/firebase-plain-wordmark.svg"
     width="60px" height='60px'
   />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
