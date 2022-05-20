@@ -34,6 +34,7 @@
 
 
 **Certificates:**
+- **Build Web Apps with React & Firebase** / *The Net Ninja UK*
 - **Modern JavaScript** / *The Net Ninja UK*
 - **FrontEnd Masters BootCamp** / *Frontend Masters*
 - **JavaScript Algorithms and Data Structures** / *freeCodeCamp*
