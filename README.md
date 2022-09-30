@@ -20,7 +20,7 @@
 **ismailhasir/ismailhasir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-[![İsmail Hasır's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismailhasir&count_private=true&theme=github_dark&show_icons=true&hide_border=true)](https://github.com/ismailhasir/github-readme-stats)
+[![İsmail Hasır's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismailhasir&count_private=true&include_all_commits=true&theme=github_dark&show_icons=true&hide_border=true)](https://github.com/ismailhasir/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailhasir&count_private=true&layout=compact&theme=github_dark&hide_border=true)](https://github.com/ismailhasir/github-readme-stats)
