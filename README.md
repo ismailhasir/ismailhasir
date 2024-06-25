@@ -16,6 +16,5 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/ismailhasir)
 
-  
- [![trophy](https://github-profile-trophy.vercel.app/?username=ismailhasir&theme=nord&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismailhasir&theme=github_dark&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailhasir&theme=github_dark&hide_border=true&show_icons=true&layout=compact)
