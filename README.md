@@ -14,7 +14,7 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 </p>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/ismailhasir)
+![Leetcode Stats](https://leetcard.jacoblin.cool/ismailhasir?border=0&ext=heatmap)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismailhasir&theme=github_dark&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismailhasir&theme=github_dark&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailhasir&theme=github_dark&hide_border=true&show_icons=true&layout=compact)
