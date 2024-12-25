@@ -32,7 +32,7 @@
  -->
 
 
-<!--**REFERENCES**:
+**REFERENCES**:
 <p align="center"> 
     <img src="https://media.licdn.com/dms/image/v2/D4E0BAQF4DZLU_vpdbg/company-logo_200_200/company-logo_200_200/0/1719829933436/ntt_data_business_solutions_logo?e=2147483647&v=beta&t=2CPdxlUpfFBwTlv1o-P9gvdk_brydjetR9SqqImXhsw" alt="nttdata" width="150" height="150"/>
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmXSAzK4GXg_IFEYMULozt-pLwF7x9fWpsKg&s" alt="koc" width="150" height="150"/> 
@@ -40,4 +40,4 @@
     <img src="https://salesnetwork.net/cache/image/large/2023/03/3bdf73eed6fab723aa498f3a4543f0cd.jpg" alt="yildizholding" width="150" height="150"/>
     <img src="https://pbs.twimg.com/profile_images/1661984512115351554/AOyj5PKK_400x400.jpg" alt="haciismailogullari" width="150" height="150"/>
 
-</p>-->
+</p>
