@@ -23,15 +23,16 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/swagger/swagger-original.svg" alt="swagger" width="40" height="40"/> 
 </p>
 -->
-<!--
+
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/670a611ad1c3e057ee385168d65c8ab27a7e1be5/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/670a611ad1c3e057ee385168d65c8ab27a7e1be5/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/670a611ad1c3e057ee385168d65c8ab27a7e1be5/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/670a611ad1c3e057ee385168d65c8ab27a7e1be5/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/670a611ad1c3e057ee385168d65c8ab27a7e1be5/icons/githubactions/githubactions-original-wordmark.svg" alt="github actions" width="40" height="40"/>
+<!--
 <img src="https://raw.githubusercontent.com/devicons/devicon/670a611ad1c3e057ee385168d65c8ab27a7e1be5/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/670a611ad1c3e057ee385168d65c8ab27a7e1be5/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/670a611ad1c3e057ee385168d65c8ab27a7e1be5/icons/githubactions/githubactions-original-wordmark.svg" alt="github actions" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/670a611ad1c3e057ee385168d65c8ab27a7e1be5/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/670a611ad1c3e057ee385168d65c8ab27a7e1be5/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/670a611ad1c3e057ee385168d65c8ab27a7e1be5/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/>
@@ -43,17 +44,4 @@
 ![Leetcode Stats](https://leetcard.jacoblin.cool/ismailhasir?border=0)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismailhasir&theme=github_dark&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailhasir&theme=github_dark&hide_border=true&show_icons=true&layout=compact)
-
- -->
-
-<!--
-**REFERENCES**:
-<p align="center"> 
-    <img src="https://media.licdn.com/dms/image/v2/D4E0BAQF4DZLU_vpdbg/company-logo_200_200/company-logo_200_200/0/1719829933436/ntt_data_business_solutions_logo?e=2147483647&v=beta&t=2CPdxlUpfFBwTlv1o-P9gvdk_brydjetR9SqqImXhsw" alt="nttdata" width="150" height="150"/>
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmXSAzK4GXg_IFEYMULozt-pLwF7x9fWpsKg&s" alt="koc" width="150" height="150"/> 
-    <img src="https://logowik.com/content/uploads/images/akbank74378.logowik.com.webp" alt="akbank" width="150" height="150"/>
-    <img src="https://bshtreats.co.uk/images/bsh-logo.jpg" alt="bsh" width="150" height="150"/>
-    <img src="https://salesnetwork.net/cache/image/large/2023/03/3bdf73eed6fab723aa498f3a4543f0cd.jpg" alt="yildizholding" width="150" height="150"/>
-
-</p>
 -->
